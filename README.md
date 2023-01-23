@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kryanbz
 - 👀 I’m interested in teaching and learning Web Development
-- 🌱 I’m currently learning MEAN stack 
+- 🌱 I’m currently improving my web dev sckills 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
